@@ -8,10 +8,10 @@
 # Danh sách thành viên 
 | STT | Họ và tên | MSSV | Email |
 |-----|-------|------|-------|
-| 1 | Nguyễn Anh Dũng | 20521209 | 20521209@gm.uit.edu.vn |
+| 1 | [Nguyễn Anh Dũng}(https://github.com/NguyenDung278) | 20521209 | 20521209@gm.uit.edu.vn |
 | 2 | Võ Minh Trí | 20520821 | 20520821@gm.uit.edu.vn |
-| 3 | Luơng Thái Bảo | 2052 | 2052@gm.uit.edu.vn |
-| 4 | Phan Minh Khôi | 2052 | 2052@gm.uit.edu.vn |
+| 3 | [Luơng Thái Bảo](https://github.com/02bao) | 2052 | 2052@gm.uit.edu.vn |
+| 4 | [Phan Minh Khôi](https://github.com/KhoiPMUIT) | 2052 | 2052@gm.uit.edu.vn |
 
 # Đề tài đồ án: React Native Audio Player
 
