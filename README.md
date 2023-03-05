@@ -3,7 +3,7 @@
 
 
 ## GIẢNG VIÊN HƯỚNG DẪN
-### Phạm Nguyễn Trường An
+### ThS.Phạm Nguyễn Trường An
 
 # Danh sách thành viên 
 | STT | Họ và tên | MSSV | Email |
