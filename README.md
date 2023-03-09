@@ -17,4 +17,4 @@
 
 Đây là một ứng dụng sử dụng cho việc phát nhạc và hỗ trợ tạo playlist cho người dùng 
 
-# [Báo cáo](https://github.com/trivm12/CS526.N11.KHCL/blob/main/FinalProject-Report.pdf)
+#### [Báo cáo](https://github.com/trivm12/CS526.N11.KHCL/blob/main/FinalProject-Report.pdf)
